@@ -11,3 +11,15 @@
                                                                        
 
 using python 3.10                                                                       
+
+## Best priorities (ordered):
+1. Correctness: Does the solution handle all valid inputs and edge cases?
+
+
+2. Time complexity: Can you reduce unnecessary operations?
+
+
+3. Space complexity: Can you reduce memory usage without significantly sacrificing execution speed?
+
+
+4. Readability: Is the solution understandable and maintainable?
