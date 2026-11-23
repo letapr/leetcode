@@ -23,3 +23,28 @@ using python 3.10
 
 
 4. Readability: Is the solution understandable and maintainable?
+
+## Review strategy: 
+1. Active recall — 10 minutes
+
+Without notes, explain yesterday's algorithm, its time and space complexity, and when you'd use it. Reimplement a key operation from memory.
+
+
+
+2. Learn the concept — 15–20 minutes
+
+Study the data structure or algorithm, why it works, its complexity, and the situations where it's useful. Implement the core algorithm without copying code.
+
+
+
+3. Solve problems — 35–45 minutes
+
+Attempt the day's problems before reading solutions. If stuck after 20–25 minutes, use a hint, then close the solution and implement it yourself.
+
+
+
+4. Consolidate — 10 minutes
+
+Record the pattern, key insight, complexity, mistakes, and one clue that would help you recognize the pattern in another problem.
+
+try to solve before review if possible
